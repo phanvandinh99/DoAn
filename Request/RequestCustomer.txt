@@ -1,0 +1,21 @@
+~============================= YÊU CẦU CHỨC NĂNG KHÁCH HÀNG =============================~
+
+Các tác nhân: Nhân Viên (Nhân Viên Bán Hàng) và Admin
+
+Admin: 
+- Quản lý tài khoản thành viên\
+- Xem doanh thu (Tháng, quý, năm)
+- Đóng băng tài khoản
+- Đăng nhập sai 3 lần liên tiếp => khóa tài khoản
+
+Nhân viên bán hàng:
+- Quản lý danh mục sảnh
+- Quản lý danh mục bàn của mỗi sảnh.
+- Quản lý thông tin nhân viên phục vụ.
+- Quản lý danh mục món ăn, thức uống, đơn giá món ăn thức uống theo thời gian.
+- Quản lý yêu cầu gọi món của khách hàng.
+- Quản lý việc đổi món, hủy món.
+- Quản lý hóa đơn tính tiền.
+- Quản lý danh mục ca làm việc, đơn giá ca làm việc.
+- Phân công việc làm theo cho nhân viên theo ca, chấm công và tính lương.
+
